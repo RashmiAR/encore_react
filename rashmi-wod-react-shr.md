@@ -112,4 +112,4 @@ You do not have to submit this WOD.
 
 ### Footnotes
 
-{% include bit.ly.html url="http://bit.ly/2IEMYp0" %}
+{% include bit.ly.html url="" %}
